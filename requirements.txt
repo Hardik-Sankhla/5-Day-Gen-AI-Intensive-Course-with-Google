@@ -1,0 +1,10 @@
+jupyter
+notebook
+numpy
+pandas
+scikit-learn
+transformers
+sentence-transformers
+faiss-cpu
+openai
+google-cloud-aiplatform

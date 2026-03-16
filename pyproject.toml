@@ -1,0 +1,9 @@
+[project]
+name = "5-day-genai-course"
+version = "0.1.0"
+description = "Materials and notebooks for 5-Day GenAI Intensive Course"
+authors = [ { name = "Hardik Sankhla" } ]
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
